@@ -27,6 +27,8 @@ Foi utilizada a base:
 
 **Electric Vehicle Population Data**
 
+link: https://www.kaggle.com/datasets/rajkumarpandey02/electric-vehicle-population-data
+
 Para as análises de probabilidade, a principal variável escolhida foi:
 
 `Electric Range`
