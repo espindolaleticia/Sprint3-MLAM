@@ -245,8 +245,8 @@ Challenge-Sprint-3/
 │
 ├── Electric_Vehicle_Population_Data.csv
 ├── sprint3_mlam.ipynb
-├── README.md
-└── demais materiais do projeto
+└──  README.md
+
 ```
 
 ---
